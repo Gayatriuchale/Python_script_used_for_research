@@ -2,7 +2,7 @@ all codes included in this repository are used in research -'Investigating Terre
 
 #taylor_diagram_for_cmip6_model_simulations
 Here is the modified code for taylor diagram for comparative study of cmip6 models
-The code written in py file is taken from github and modified for research purpose
+The code written in py file is taken from github (https://gist.github.com/ycopin/3342888)  and modified for research purpose
 
 #python_script
 it includes codes for spatial plots, trend analysis, timeseries, errorbar plot, regional analysis.
